@@ -108,3 +108,11 @@ function respostaSelecionada(opcaoSelecionada){
     atual ++;
     mostraPergunta();
 }
+
+function mostraResultado(){
+    caixaPerguntas.textContent = "De acordo com as suas respostas...";
+    textoResultado.textContent = historiaFinal;
+    caixaAlternativas.textContent = "";
+}
+
+mostraPergunta();
