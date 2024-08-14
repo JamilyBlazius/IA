@@ -11,7 +11,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Sim",
-                afirmacao: "Boa, a IA é realmente importante por diversos fatores."
+                afirmacao: "Ótimo, a IA é realmente importante por diversos fatores."
             },
             {
                 texto: "Não",
@@ -66,7 +66,7 @@ const perguntas = [
         enunciado: "Você gostou das perguntas?",
         alternativas: [
             {
-                texto: "Sim",
+                texto: "Sim.",
                 afirmacao: "Fico feliz! Obrigada pelo seu feedback!"
             },
             {
